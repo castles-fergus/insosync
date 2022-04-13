@@ -1,0 +1,14 @@
+_id: env_4fd90ce530bb40c28d7594ba37e1e21e
+type: Environment
+parentId: env_bd88b5fa7a7a3587d508e535f077983b9b85bf1e
+modified: 1649847512491
+created: 1649847450527
+name: Test Env
+data:
+  url: www.example.com
+dataPropertyOrder:
+  "&":
+    - url
+color: "#7d69cb"
+isPrivate: false
+metaSortKey: 1649847450527

@@ -1,9 +1,9 @@
 _id: req_92ff6b4973f44aa982c6cca92a3a92b3
 type: Request
 parentId: fld_27843b7604df4d53a7bcc428c420429f
-modified: 1649847549903
+modified: 1649847901053
 created: 1649847409174
-url: https://{{ _.url }}/auth/login
+url: https://{{ _.url }}
 name: TheFirstRequest
 description: ""
 method: GET
